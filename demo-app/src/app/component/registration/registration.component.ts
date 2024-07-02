@@ -9,4 +9,8 @@ import { Component } from '@angular/core';
 })
 export class RegistrationComponent {
 
+
+  //let buttonName = 'Registor'
+  public buttonName:String = "Registor"
+
 }
